@@ -9,5 +9,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     BenzoBlock \
     KernelAdiutor \
+    PrebuiltBugle \
     SnapBrowser \
     Substratum
